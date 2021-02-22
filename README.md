@@ -1,3 +1,3 @@
 # Haskell_pra
 
-競プロのHaskellの練習
+競プロの練習
